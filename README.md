@@ -8,7 +8,7 @@ Armazenamento: Persistência em arquivos CSV via biblioteca fstream.
 Paradigma: Programação Estruturada e Modular.
 
 ## 💡 Conceitos de Ciência da Computação Aplicados
-Este projeto não é apenas um cadastro, mas um laboratório de conceitos fundamentais:
+* Este projeto não é apenas um cadastro, mas um laboratório de conceitos fundamentais:
 
 ## 🃏 Ordenação com Insertion Sort
 
